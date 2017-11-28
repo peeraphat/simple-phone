@@ -1,0 +1,19 @@
+{
+  "name": "simple-phone",
+  "version": "1.0.0",
+  "description": "Modify data to phone format(Thailand)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:peeraphat/simple-phone.git"
+  },
+  "keywords": [
+    "phone",
+    "format"
+  ],
+  "author": "Peeraphat",
+  "license": "ISC"
+}
